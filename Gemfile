@@ -37,6 +37,7 @@ group :test do
   gem 'mongoid-rspec'
   gem 'capistrano'
   gem 'capistrano_colors'
+  gem 'vcr'
 
   # Pretty printed test output
   gem 'turn', :require => false
