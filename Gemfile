@@ -35,9 +35,6 @@ group :test do
   gem 'launchy'
   gem 'database_cleaner'
   gem 'mongoid-rspec'
-  gem 'autotest'
-  gem 'autotest-rails'
-  gem 'autotest-growl'
   gem 'capistrano'
   gem 'capistrano_colors'
 
