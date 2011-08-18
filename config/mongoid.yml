@@ -8,4 +8,4 @@ test:
 
 # set these environment variables on your prod server
 production:
-  host: <%= ENV['MONGOHQ_URL'] %>
+  host: <%= ENV['MONGOLAB_URL'] %>
